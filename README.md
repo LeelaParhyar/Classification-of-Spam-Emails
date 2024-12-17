@@ -28,7 +28,11 @@ The dataset  is splitted into training and test sets, trains a Naive Bayes class
 -Classification Report (precision, recall, F1 score)
 -F1 Score (balances precision and recall).
 
+### Preprocesses the email messages by tokenizing, removing stopwords, and applying stemming using NLTK'
+The emails are predicted as spam or not spam after passing the tokenized input email that will be classified by the model.
 ### Prediction of emails as spam or not spam.
-### Preprocesses the email messages by tokenizing, removing stopwords, and applying stemming using NLTK
+As a result the tested email will be classified as spam or not spam email.
+
+
 
  
