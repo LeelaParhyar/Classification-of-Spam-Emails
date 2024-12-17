@@ -1,7 +1,7 @@
-# Assignment Overview.
+# Classification of Spam Email System Overview.
 This assignment describes how to develop a Python-based machine learning-based email spam classification system. To detect spam, the system uses a collection of emails to train a Naive Bayes model. Its features include email content preprocessing, model training, evaluation, and prediction.
 
-## Stages of Assignment. 
+## Stages of System. 
 
 Dataset Handling: The email spam dataset is available on kaggle.
 
