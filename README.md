@@ -22,7 +22,7 @@ Preprocessing: Email text is tokenized and cleaned using NLTK's SpaceTokenizer.
   The data set is used is the Email Spam Classification dataset from Keggle("Dataset":Contains 5172 emails with labels: 1 for spam, 0 for not spam.
 Features are the frequency of 3000 words used in the emails.)
 
-## Evaluation and Implimentation.
+## Evaluation and Implementation.
 The dataset  is splitted into training and test sets, trains a Naive Bayes classifier, and evaluates its performance with accuracy and a detailed classification report as Evaluation Metrics:
 -Confusion Matrix
 -Classification Report (precision, recall, F1 score)
